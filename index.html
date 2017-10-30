@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fidget Lexa</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="/css/style.css">
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
+</head>
+<body>
+<div class="back"></div>
+<div class="header">LehaJs is rolling...</div>
+<div class="spinner clicked"></div>
+<div class="text">Раскрути Фиджет Лёху</div>
+<script>
+	$(".spinner").click(function(){
+		$(this).removeClass('clicked');
+		setTimeout(function(){    
+		$('.spinner').addClass('clicked');
+		},1);
+	});
+</script>
+</body>
+</html>
