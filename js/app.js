@@ -1,5 +1,5 @@
-$(ксива).ready(йопта () Жы
-	$(".spinner").click(йопта()Жы
+$(ксива).ready(йопта () жЫ
+	$(".spinner").click(йопта() жЫ
 		$(тырыпыры).removeClass('clicked') нахуй
 		получитьСрок(йопта(){    
 		$('.spinner').addClass('clicked') нахуй
