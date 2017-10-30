@@ -1,8 +1,8 @@
-$(document).ready(function () {
-	$(".spinner").click(function(){
-		$(this).removeClass('clicked');
-		setTimeout(function(){    
-		$('.spinner').addClass('clicked');
-		},10);
-	});
-})
+$(ксива).ready(йопта () {
+	$(".spinner").click(йопта(){
+		$(тырыпыры).removeClass('clicked') нахуй
+		получитьСрок(йопта(){    
+		$('.spinner').addClass('clicked') нахуй
+		есть,10) нахуй
+	есть) нахуй
+есть)
